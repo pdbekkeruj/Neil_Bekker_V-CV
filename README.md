@@ -1,3 +1,7 @@
+<a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
+<a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
+<a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
+<a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievement
 
 ## National Distribution Lead
 - [Download CV (PDF)](/Neil_Bekker_CV.pdf)
@@ -8,7 +12,7 @@
 - LinkedIn: https://www.linkedin.com/in/neil-bekker-4154867a/
 - GitHub: https://github.com/pdbekkeruj
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 October 2022 - Current
 National Distribution Lead - Universal Paper & Plastics | Ga-Rankuwa, South Africa 
@@ -51,7 +55,7 @@ Administration Clerk Cell C | Pretoria, South Africa
 -	Cellphone repairs soliciting and expediting
 -	Answering the store telephone and advising customers
 
-### EDUCATION AND TRAINING
+## EDUCATION AND TRAINING
 
 2017 
 Bachelor of Commerce Honours (BComHons) | Logistics Management
@@ -69,12 +73,12 @@ North-West University, Potchefstroom
 National Senior Certificate
 Hoërskool Overkruin
 
-### LANGUAGES
+## LANGUAGES
 
 - Afrikaans: First Language
 - English: Proficient
 
-### ACADEMIC ACHIEVEMENTS AND PROJECTS
+## ACADEMIC ACHIEVEMENTS AND PROJECTS
 
 -	100% High School Attendance Certificate
 -	Won the Faculty of Management prize for best poster in Research Methodology in 2016 at the University of Johannesburg
