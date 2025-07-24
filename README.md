@@ -1,6 +1,5 @@
 # Neil Bekker
 
-![Neil_Bekker](assets/Neil_Bekker_pp.jpg)
 
 ## National Distribution Lead
 
@@ -85,5 +84,5 @@ Hoërskool Overkruin
 -	BBC Database project in CMPG 311 (Databases) at North-West University, completed in the year 2024; final module mark: 80%
 -	Airbnb SQL project in CMPG 321 (Advanced Databases) at North-West University, completed in the year 2024; final module mark: 90%
 
-![Education](assets/pexels-nietjuhart-796602(Book).jpg)
+
 
