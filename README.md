@@ -1,5 +1,7 @@
 
 <a id="top"></a>
+Navigate to a section of interest:
+
 <a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
 <a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
 <a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
@@ -64,20 +66,21 @@ Administration Clerk Cell C | Pretoria, South Africa
 
 ## EDUCATION AND TRAINING
 
-2017 
-Bachelor of Commerce Honours (BComHons) | Logistics Management
+2017. 
+Bachelor of Commerce Honours (BComHons) | Logistics Management.
 University of Johannesburg, Johannesburg 
 
-2015 
-Bachelor of Commerce (BCom) | Strategic Supply Management (Cum Laude)
-University of South Africa, Pretoria 
+2015. 
+Bachelor of Commerce (BCom) | Strategic Supply Management (Cum Laude).
+University of South Africa, Pretoria
 
-Bachelor of Science (BSc) | Information Technology (Currently Enrolled) 
+2026.
+Bachelor of Science (BSc) | Information Technology (Currently Enrolled). 
 Distance Learning
-North-West University, Potchefstroom 
+. North-West University, Potchefstroom 
 
-2010
-National Senior Certificate
+2010.
+National Senior Certificate.
 Hoërskool Overkruin
 
 ## LANGUAGES
