@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/styling.css">
+
 ## National Distribution Lead
 - [Download CV (PDF)](/Neil_Bekker_CV.pdf)
 
