@@ -1,12 +1,11 @@
 ## National Distribution Lead
+- [Download CV (PDF)](/Neil_Bekker_CV.pdf)
 
 #### BComHons Logistics Management | University of Johannesburg
 #### BCom Strategic Supply Management | University of South Africa
 
 - LinkedIn: https://www.linkedin.com/in/neil-bekker-4154867a/
 - GitHub: https://github.com/pdbekkeruj
-
-- [Download CV (PDF)](/Neil_Bekker_CV.pdf)
 
 ### PROFESSIONAL EXPERIENCE
 
