@@ -1,4 +1,5 @@
 
+<a id="top"></a>
 <a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
 <a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
 <a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
@@ -87,6 +88,10 @@ Hoërskool Overkruin
 -	SPCA C# project in CMPG 213 (Systems Analysis and Design I) at North-West University in the year 2023; final module mark: 88%
 -	BBC Database project in CMPG 311 (Databases) at North-West University, completed in the year 2024; final module mark: 80%
 -	Airbnb SQL project in CMPG 321 (Advanced Databases) at North-West University, completed in the year 2024; final module mark: 90%
+
+<a href="#national-distribution-lead" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Go to the top of the page</a>
+
+
 
 ![Education](assets/pexels-nietjuhart-796602(Book).jpg)
 
