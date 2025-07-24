@@ -1,7 +1,8 @@
+
 <a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
 <a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
 <a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
-<a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievement
+<a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievements and Projects</a>
 
 ## National Distribution Lead
 - [Download CV (PDF)](/Neil_Bekker_CV.pdf)
