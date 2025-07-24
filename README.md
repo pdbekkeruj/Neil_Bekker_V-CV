@@ -5,7 +5,7 @@
 <a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
 <a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievements and Projects</a>
 
-<img src="/assets/Neil_Bekker_pp.jpg" 
+<img src="/assets/Neil_Bekker_pp2.jpg" 
      style="width: 150px; border-radius: 50%; transition: transform 0.3s ease-in-out;"
      onmouseover="this.style.transform='rotate(5deg) scale(1.05)'"
      onmouseout="this.style.transform='none'">
