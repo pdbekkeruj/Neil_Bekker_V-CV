@@ -1,5 +1,20 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-<link rel="stylesheet" href="/assets/css/style.css">
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a:hover {
+  color: #007acc; /* hover color */
+  transition: color 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.03);
+  transition: transform 0.3s ease;
+}
+</style>
 
 ## National Distribution Lead
 - [Download CV (PDF)](/Neil_Bekker_CV.pdf)
