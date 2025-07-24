@@ -1,5 +1,19 @@
+/* To make the text look better by importing Google Fonts
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 body {
   font-family: 'Open Sans', sans-serif;
+}
+
+/* Links to change colour when moving mouse over them
+a:hover {
+  color: blue;
+  transition: color 0.3s;
+}
+
+/* Make profile picture better when you move your mouse over the picture
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s;
 }
