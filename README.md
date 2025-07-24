@@ -5,7 +5,8 @@
 
 - LinkedIn: https://www.linkedin.com/in/neil-bekker-4154867a/
 - GitHub: https://github.com/pdbekkeruj
-_ [Download CV (PDF)](/Neil_Bekker_CV.pdf)
+
+- [Download CV (PDF)](/Neil_Bekker_CV.pdf)
 
 ### PROFESSIONAL EXPERIENCE
 
