@@ -4,6 +4,6 @@ description: National Distribution Lead
 favicon: /assets/NBfavicon.ico
 show_downloads: true
 email: pdbekkeruj@gmail.com
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 sass:
   style: compressed
