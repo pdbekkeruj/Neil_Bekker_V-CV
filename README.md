@@ -97,7 +97,7 @@ Hoërskool Overkruin
 -	100% High School Attendance Certificate
 -	Won the Faculty of Management prize for best poster in Research Methodology in 2016 at the University of Johannesburg
 -	Member of the Golden Key International Honour Society – Top 15% in my field of study at North-West University in 2022
--	SPCA C# project in CMPG 213 (Systems Analysis and Design I) at North-West University in the year 2023; final module mark: 88%
+-	SPCA C# project in CMPG 213 (Systems Analysis and Design II) at North-West University in the year 2023; final module mark: 73%
 -	BBC Database project in CMPG 311 (Databases) at North-West University, completed in the year 2024; final module mark: 80%
 -	Airbnb SQL project in CMPG 321 (Advanced Databases) at North-West University, completed in the year 2024; final module mark: 90%
 
