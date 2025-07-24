@@ -18,6 +18,9 @@ Navigate to a section of interest:
 #### BComHons Logistics Management | University of Johannesburg
 #### BCom Strategic Supply Management | University of South Africa
 
+============================================================================================
+For quick access to Neil Bekker's LinkedIn and GitHub profiles, click on the below hyperlinks:
+
 - [LinkedIn](https://www.linkedin.com/in/neil-bekker-4154867a/)
 - [GitHub](https://github.com/pdbekkeruj)
 
