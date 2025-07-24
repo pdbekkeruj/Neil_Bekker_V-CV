@@ -1,4 +1,8 @@
-# National Distribution Lead
+# Neil Bekker
+
+![Neil Bekker] (/assets/img/Neil_Bekker_pp.jpg)
+
+## National Distribution Lead
 
 #### BComHons Logistics Management | University of Johannesburg
 #### BCom Strategic Supply Management | University of South Africa
