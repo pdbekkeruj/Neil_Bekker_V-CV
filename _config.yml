@@ -5,3 +5,4 @@ favicon: /assets/NBfavicon.ico
 show_downloads: true
 email: pdbekkeruj@gmail.com
 theme: jekyll-theme-minimal
+sass: style: compressed
