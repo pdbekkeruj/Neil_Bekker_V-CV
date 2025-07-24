@@ -1,5 +1,7 @@
 title: Neil Bekker
 logo: /assets/Neil_Bekker_pp.jpg
 description: National Distribution Lead
+favicon: /assets/NBfavicon.ico
 show_downloads: true
+email: pdbekkeruj@gmail.com
 theme: jekyll-theme-minimal
