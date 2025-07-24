@@ -1,7 +1,3 @@
-# Neil Bekker
-
-![Neil_Bekker](assets/Neil_Bekker_pp.jpg)
-
 ## National Distribution Lead
 
 #### BComHons Logistics Management | University of Johannesburg
