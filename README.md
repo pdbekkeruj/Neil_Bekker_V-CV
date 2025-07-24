@@ -21,6 +21,7 @@ Navigate to a section of interest:
 - LinkedIn: https://www.linkedin.com/in/neil-bekker-4154867a/
 - GitHub: https://github.com/pdbekkeruj
 
+![Thinking](assets/pexels-pixabay-355952.jpg)
 ## PROFESSIONAL EXPERIENCE
 
 October 2022 - Current
