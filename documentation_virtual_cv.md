@@ -20,3 +20,6 @@ It includes my profile photo, links to my LinkedIn and GitHub profiles, my curre
 - GitHub version history
 - Downloadable CV in terms of either ZIP File or TAR Ball
 
+## Deployment
+
+The site is currently live and can be accessed via the following link: https://pdbekkeruj.github.io/Neil_Bekker_V-CV/
