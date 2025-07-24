@@ -7,7 +7,6 @@
 
 ## National Distribution Lead
 Click on a section of interest:
-
 <a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
 <a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
 <a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
