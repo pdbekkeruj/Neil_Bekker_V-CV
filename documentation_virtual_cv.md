@@ -29,7 +29,7 @@ It includes my profile photo, links to my LinkedIn and GitHub profiles, my curre
 - Easy to navigate layout
 - Profile photo
 - GitHub version history
-- Downloadable CV in terms of either ZIP File or TAR Ball
+- Downloadable CV in terms of either ZIP File, TAR Ball or PDF
 
 ## Deployment
 
