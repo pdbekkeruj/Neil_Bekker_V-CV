@@ -14,7 +14,7 @@ It includes my profile photo, links to my LinkedIn and GitHub profiles, my curre
 - Custom assests such as my profile photo and other pictures acquired from copy right free website, Pexels (https://www.pexels.com/)
 - _config.yml file
 
-## _config.yml contains the following
+## _config.yml file contains the following
 
 - title: Neil Bekker
 - logo: /assets/Neil_Bekker_pp.jpg
