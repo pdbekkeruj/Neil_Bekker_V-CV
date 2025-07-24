@@ -2,19 +2,17 @@
 body {
   background-color: #f9f9f9;
   font-family: 'Open Sans', sans-serif;
-}
-  
+}  
 a:hover {
   color: red;
 }
-  
 img:hover {
   transform: scale(1.1);
   transition: transform 0.3s;
 }
 </style>
 
-<link rel="stylesheet" href="/assets/css/styling.css">
+<link rel="stylesheet" href="/assets/css/style.css">
 
 ## National Distribution Lead
 - [Download CV (PDF)](/Neil_Bekker_CV.pdf)
