@@ -26,7 +26,7 @@ For quick access to Neil Bekker's LinkedIn and GitHub profiles, click on the bel
 ![Thinking](assets/pexels-pixabay-355952.jpg)
 ## PROFESSIONAL EXPERIENCE
 
-October 2022 - Current
+October 2022 - Current.
 National Distribution Lead - Universal Paper & Plastics | Ga-Rankuwa, South Africa 
 -	Managing our distributor sites (Megamor, L&B, SGX and Vital)
 -	Ensure compliance and maintain standards with SLA
@@ -35,7 +35,7 @@ National Distribution Lead - Universal Paper & Plastics | Ga-Rankuwa, South Afri
 -	Communication and conflict resolution
 -	SAGE X3 - Enterprise Resource Planning
 
-July 2018 - September 2022
+July 2018 - September 2022.
 Sales Administrator - Universal Paper & Plastics | Ga-Rankuwa, South Africa 
 -	Capturing and booking orders for delivery (PnP, Shoprite, Clicks, Woolworths, PEP and drop shipments)
 -	Liaising with Sales Representatives
@@ -45,13 +45,13 @@ Sales Administrator - Universal Paper & Plastics | Ga-Rankuwa, South Africa
 -	Meeting our Departmental Goals as specified in our Key Performance Indicators (KPIs)
 -	Preparing the Distribution Schedule for deliveries daily
 
-February 2018 - July 2018
+February 2018 - July 2018.
 Project Coordinator - Universal Paper & Plastics | Ga-Rankuwa, South Africa 
 -	Managing projects under the directive of the Supply Chain Executive
 -	Report findings to the Supply Chain Executive
 -	Conducting Time Studies in Finished Goods to ensure enough resources dedicated to operations
 
-August 2017 - February 2018
+August 2017 - February 2018.
 Raw Materials Manager - Universal Paper & Plastics | Ga-Rankuwa, South Africa 
 -	Managing the efficient and effective flow of operations in the Raw Materials Department
 -	Managing a group of seven people in the Raw Materials Department
@@ -59,7 +59,7 @@ Raw Materials Manager - Universal Paper & Plastics | Ga-Rankuwa, South Africa
 -	Communicating the departmental requirements to Procurement
 -	Safety Representative for Raw Materials and Finish Goods
 
-August 2011 - December 2011
+August 2011 - December 2011.
 Administration Clerk Cell C | Pretoria, South Africa 
 -	Stock control of cellphones
 -	Banking
