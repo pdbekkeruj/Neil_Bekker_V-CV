@@ -70,28 +70,20 @@ Administration Clerk Cell C | Pretoria, South Africa
 
 ## EDUCATION AND TRAINING
 
-2017. 
+- (2017). 
 Bachelor of Commerce Honours (BComHons) | Logistics Management.
 University of Johannesburg, Johannesburg 
 
-2015. 
+- (2015). 
 Bachelor of Commerce (BCom) | Strategic Supply Management (Cum Laude).
 University of South Africa, Pretoria
 
-2017. 
-Bachelor of Commerce Honours (BComHons) | Logistics Management.
-University of Johannesburg, Johannesburg 
-
-2015. 
-Bachelor of Commerce (BCom) | Strategic Supply Management (Cum Laude).
-University of South Africa, Pretoria
-
-2026.
+- (2026).
 Bachelor of Science (BSc) | Information Technology (Currently Enrolled). 
 Distance Learning
 . North-West University, Potchefstroom 
 
-2010.
+- (2010).
 National Senior Certificate.
 Hoërskool Overkruin
 
