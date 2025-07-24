@@ -1,11 +1,4 @@
 <a id="top"></a>
-Click on a section of interest:
-
-<a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
-<a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
-<a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
-<a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievements and Projects</a>
-
 <img src="/assets/Neil_Bekker_pp2.jpg" width="150"
      style="transition: transform 0.3s ease;"
      onmouseover="this.style.transform='scale(1.05)';"
@@ -13,10 +6,16 @@ Click on a section of interest:
 />
 
 ## National Distribution Lead
-- [Download CV (PDF)](/Neil_Bekker_CV.pdf)
+Click on a section of interest:
+
+<a href="#professional-experience" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Professional Experience</a> |
+<a href="#education-and-training" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Education and Training</a> |
+<a href="#languages" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages</a> |
+<a href="#academic-achievements-and-projects" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Achievements and Projects</a>
 
 #### BComHons Logistics Management | University of Johannesburg
 #### BCom Strategic Supply Management | University of South Africa
+- [Download CV (PDF)](/Neil_Bekker_CV.pdf)
 
 ============================================================================================
 For quick access to Neil Bekker's LinkedIn and GitHub profiles, click on the below hyperlinks:
