@@ -1,4 +1,4 @@
-# Documentation for virtual CV on Neil Bekker
+# Documentation for Virtual CV on Neil Bekker
 
 This file serves as documentation for outligning my Virtual CV and its elements.
 
@@ -37,3 +37,7 @@ It includes my profile photo, links to my LinkedIn and GitHub profiles, my curre
 ## Deployment
 
 The site is currently live and can be accessed via the following link: https://pdbekkeruj.github.io/Neil_Bekker_V-CV/
+
+## Youtube video references used
+- Shaw Talebi (2023). How to Make a Data Science Portfolio With GitHub Pages (2024). [Online video]. Available at: https://www.youtube.com/watch?v=D9CLhQdLp8w (Accessed: 23 July 2025).
+- Visual Studio Code (2022). SCreate a resume website in your browser with VS Code and GitHub Pages. [Online video]. Available at: https://www.youtube.com/watch?v=srQjolk7rj8 (Accessed: 23 July 2025).
