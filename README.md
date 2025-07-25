@@ -1,4 +1,5 @@
 <a id="top"></a>
+<img src="/assets/Neil_Bekker_pp.jpg" alt="Neil Bekker" class="profile-pic" />
 <img src="/assets/Neil_Bekker_pp.jpg" alt="Neil Bekker"
      style="width:150px; border-radius:50%; transition: transform 0.3s ease-in-out;"
      onmouseover="this.style.transform='scale(1.1)'"
