@@ -1,4 +1,8 @@
-
+<div style="background: red; width: 100px; height: 100px; transition: transform 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.2)'"
+     onmouseout="this.style.transform='scale(1)'">
+  Hover me
+</div>
 <link rel="stylesheet" href="/assets/css/style.css">
 <a id="top"></a>
 <img src="/assets/Neil_Bekker_pp2.jpg" width="150"
