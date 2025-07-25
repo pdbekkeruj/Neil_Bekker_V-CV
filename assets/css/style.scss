@@ -1,107 +1,17 @@
-/* import a Google font */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-
-/* apply font*/
+/* page background color to a light gray */
 body {
-  font-family: 'Open Sans', sans-serif;
-  color: #222;
-  line-height: 1.6;
-  background-color: #f9f9f9;
-  margin: 0;
-  padding: 0 20px;
+  background-color: #f0f0f0;
+  color: #222; /* Optional: set a readable text color */
 }
 
-/* links the styling */
-a {
-  color: #007acc;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #005a99;
-  text-decoration: underline;
-}
-
-/* headings */
-h1, h2, h3, h4 {
-  color: #111;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  font-weight: 700;
-}
-
-/* navigation links */
-.nav-links {
-  margin-bottom: 1.5em;
-  font-size: 1.1em;
-}
-
-.nav-links a {
-  margin-right: 15px;
-}
-
-/* button animation */
-@keyframes pulse {
-  0% {
-    box-shadow: 0 0 0 0 rgba(0, 122, 204, 0.7);
-    transform: scale(1);
-  }
-  70% {
-    box-shadow: 0 0 10px 10px rgba(0, 122, 204, 0);
-    transform: scale(1.05);
-  }
-  100% {
-    box-shadow: 0 0 0 0 rgba(0, 122, 204, 0);
-    transform: scale(1);
-  }
-}
-
-.pulse-button {
-  display: inline-block;
-  background-color: #007acc;
-  color: white;
-  padding: 12px 24px;
-  border-radius: 6px;
-  font-weight: 600;
-  cursor: pointer;
-  text-decoration: none;
-  user-select: none;
-  animation: pulse 2.5s infinite;
-  transition: background-color 0.3s ease;
-}
-
-.pulse-button:hover {
-  background-color: #005a99;
-  animation-play-state: paused;
-}
-
-/* hover effect */
+/* style profile picture and add hover effect */
 img.profile-pic {
-  border-radius: 50%;
   width: 150px;
+  border-radius: 50%;
   transition: transform 0.3s ease-in-out;
 }
 
+/* enlarge profile picture when mouse hovers over it */
 img.profile-pic:hover {
-  transform: rotate(5deg) scale(1.05);
-}
-
-/* add spacing for margin */
-section {
-  margin-bottom: 2em;
-}
-
-/* resize text */
-@media (max-width: 600px) {
-  body {
-    padding: 10px 15px;
-  }
-  img.profile-pic {
-    width: 120px;
-  }
-  .pulse-button {
-    padding: 10px 20px;
-    font-size: 0.9em;
-  }
+  transform: scale(1.1);
 }
