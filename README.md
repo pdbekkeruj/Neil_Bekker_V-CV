@@ -1,4 +1,11 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
+
+
 
 <a id="top"></a>
 <img src="/assets/Neil_Bekker_pp2.jpg" width="150"
