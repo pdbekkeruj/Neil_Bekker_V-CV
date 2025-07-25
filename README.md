@@ -1,4 +1,3 @@
-<img src="/assets/Neil_Bekker_pp.jpg" alt="Neil Bekker" class="profile-pic" />
 
 <link rel="stylesheet" href="/assets/css/style.css">
 <a id="top"></a>
