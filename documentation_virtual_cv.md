@@ -19,14 +19,17 @@ It includes my profile photo, links to my LinkedIn and GitHub profiles, my curre
 - title: Neil Bekker
 - logo: /assets/Neil_Bekker_pp.jpg
 - description: National Distribution Lead
-- favicon: /assets/NBfavicon.ico
-- show_downloads: true
 - email: pdbekkeruj@gmail.com
+- favicon: /assets/NBfavicon.ico
 - theme: jekyll-theme-minimal
+- sass:
+  style: compressed
+- show_downloads: true
 
 ## Features
 
 - Easy to navigate layout
+- Navigate to sections by clicking on the relevant section
 - Profile photo
 - GitHub version history
 - Downloadable CV in terms of either ZIP File, TAR Ball or PDF
