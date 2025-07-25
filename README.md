@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 <a id="top"></a>
 <img src="/assets/Neil_Bekker_pp2.jpg" width="150"
      style="transition: transform 0.3s ease;"
